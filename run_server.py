@@ -5,6 +5,7 @@
 # 	curl -X POST -F image=@dog.jpg 'http://localhost:5000/predict'
 # Submita a request via Python:
 #	python simple_request.py
+# git test
 
 # import the necessary packages
 from keras.applications import ResNet50
